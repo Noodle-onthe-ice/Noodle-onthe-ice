@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T20:35:08.792Z" agent="5.0 (Windows)" etag="OzSVh3QD2YagKrQgXPyk" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-25T09:50:51.583Z" agent="5.0 (Windows)" etag="NDTGCp5B--zeWt2Jg-VS" version="20.8.23" type="github">
   <diagram name="Page-1" id="wpBAy0d6-JKJUzAO7_tA">
     <mxGraphModel dx="2534" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4oQygGd5F-jImhbLc5P--16" value="&lt;div&gt;if eraser is &lt;br&gt;&lt;/div&gt;&lt;div&gt;selected&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="4oQygGd5F-jImhbLc5P--16" value="&lt;div&gt;is eraser is &lt;br&gt;&lt;/div&gt;&lt;div&gt;selected&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-291" y="308.5" width="150" height="77" as="geometry" />
         </mxCell>
         <mxCell id="4oQygGd5F-jImhbLc5P--19" value="WRITE" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
@@ -55,16 +55,16 @@
         <mxCell id="4oQygGd5F-jImhbLc5P--27" value="&lt;div&gt;RESULT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-35" y="512" width="194" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="4oQygGd5F-jImhbLc5P--30" value="&lt;div&gt;if a finger is &lt;br&gt;&lt;/div&gt;&lt;div&gt;detected&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="4oQygGd5F-jImhbLc5P--30" value="&lt;div&gt;is a finger is &lt;br&gt;&lt;/div&gt;&lt;div&gt;detected&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-291" y="110" width="150" height="77" as="geometry" />
         </mxCell>
         <mxCell id="4oQygGd5F-jImhbLc5P--31" value="is hand detected " style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-551" y="20" width="150" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="4oQygGd5F-jImhbLc5P--32" value="if &#39;c&#39; is pressed" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="4oQygGd5F-jImhbLc5P--32" value="is &#39;c&#39; is pressed" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-16" y="406" width="150" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="4oQygGd5F-jImhbLc5P--36" value="&lt;div&gt;if movement &lt;br&gt;&lt;/div&gt;&lt;div&gt;detected&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="4oQygGd5F-jImhbLc5P--36" value="&lt;div&gt;is movement &lt;br&gt;&lt;/div&gt;&lt;div&gt;detected&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="-16" y="209.5" width="150" height="77" as="geometry" />
         </mxCell>
         <mxCell id="4oQygGd5F-jImhbLc5P--37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="4oQygGd5F-jImhbLc5P--32" target="4oQygGd5F-jImhbLc5P--32" edge="1">
@@ -107,7 +107,7 @@
             <mxPoint x="-116" y="179" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4oQygGd5F-jImhbLc5P--45" value="NO" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="4oQygGd5F-jImhbLc5P--30">
+        <mxCell id="4oQygGd5F-jImhbLc5P--45" value="NO" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="4oQygGd5F-jImhbLc5P--30" edge="1">
           <mxGeometry x="-0.4699" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-210" y="200" as="sourcePoint" />
             <mxPoint x="-216.5" y="230.5" as="targetPoint" />
@@ -126,7 +126,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4oQygGd5F-jImhbLc5P--47" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1" target="4oQygGd5F-jImhbLc5P--16">
+        <mxCell id="4oQygGd5F-jImhbLc5P--47" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="4oQygGd5F-jImhbLc5P--16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-216.5" y="267" as="sourcePoint" />
             <mxPoint x="-216.5" y="316" as="targetPoint" />
@@ -174,7 +174,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfhWg-ZAN6cc5TRInI4Y-1" value="NO" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4oQygGd5F-jImhbLc5P--16" target="4oQygGd5F-jImhbLc5P--21">
+        <mxCell id="nfhWg-ZAN6cc5TRInI4Y-1" value="NO" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="4oQygGd5F-jImhbLc5P--16" target="4oQygGd5F-jImhbLc5P--21" edge="1">
           <mxGeometry x="-0.6804" y="-3" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-119" y="350" as="sourcePoint" />
             <mxPoint x="-80" y="250" as="targetPoint" />
